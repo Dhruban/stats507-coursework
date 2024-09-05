@@ -1,1 +1,4 @@
 # stats507-coursework
+The course, STATS 507: Data Analysis in Python, aims to provide a broad foundation in Python programming with a focus on data analysis tools widely used in both academia and industry. The key goals are to equip students with Python coding skills, prepare them for coding interviews, and familiarize them with tools like NumPy, pandas, scikit-learn, and PyTorch, among others. \\
+
+The purpose of this GitHub repository is to organize and manage my homework and project submissions for STATS 507. It helps me track changes to my code, collaborate with others, and keep a clean version history. By using GitHub, I can easily roll back to previous versions of my work if needed and demonstrate my progress throughout the course. It's also a place to build a portfolio of my work, which could be useful for future projects or job applications.
